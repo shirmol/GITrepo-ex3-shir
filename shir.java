@@ -1,7 +1,7 @@
 public class shir {
     public static void main(String[] args) {
         for(int i=0; i<5; i++) {
-            System.out.println("Shir - Automation Works!");
-        }
+            System.out.println("Shir - Final Automation Step ✅");       
+             }
     }
 }
